@@ -7,6 +7,10 @@ h1{
     place-items: center;
 }
 
-[name=aocCard], [name=aocCard] a{
-    gap:4rem;
+[name=aocCard] a{
+    margin:2.5rem;
+}
+
+[name=aocCard]{
+    margin:auto;
 }
