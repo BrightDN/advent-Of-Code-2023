@@ -4,7 +4,7 @@ h1{
 [name=indexWrapper]{
     display:flex;
     flex-flow:row flex;
-    justify-content: center;
+    place-items: center;
 }
 
 [name=aocCard], [name=aocCard] a{
