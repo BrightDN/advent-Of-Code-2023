@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+[name=indexWrapper]{
+    display:flex;
+    flex-flow:row flex;
+    justify-content: center;
+}
+
+[name=aocCard], [name=aocCard] a{
+    gap:1rem;
+}
