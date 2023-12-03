@@ -4,4 +4,4 @@ I am keeping track of what I had issues with for my personal growth
 Day1 Part2:
 "twone", "threeight" and so on caused my program to fail, it took me a while to fix it
 Eventually realised I can simply array.replace() these first
-However it adds a lot of lines, will think of better ways
+However it adds a lot of lines of code

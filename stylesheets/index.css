@@ -3,7 +3,7 @@ h1{
 }
 [name=indexWrapper]{
     display:flex;
-    flex-flow:row flex;
+    flex-flow:column nowrap;
     place-items: center;
 }
 
